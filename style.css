@@ -42,7 +42,7 @@ padding-left: 50px;}
     text-transform: uppercase;
 }
 .menu ul li:hover{
-    color: blue
+    color:red 
 }
 section{
     display: flex;
