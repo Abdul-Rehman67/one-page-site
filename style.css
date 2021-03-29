@@ -41,6 +41,9 @@ padding-left: 50px;}
     font-size: 12px;
     text-transform: uppercase;
 }
+.menu ul li:hover{
+    color: blue
+}
 section{
     display: flex;
 }
